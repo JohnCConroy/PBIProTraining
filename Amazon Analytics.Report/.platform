@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Amazon Analytics"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "d8380c6b-1852-4d74-a6b9-6901b026cb00"
+  }
+}
